@@ -3,7 +3,7 @@ import tkinter as tk
 class PingPongGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Kelvin K Ping Pong Game")
+        self.root.title("Asamene Ping Pong Game")
         self.root.geometry("600x400")
         self.root.resizable(False, False)
 
